@@ -1,0 +1,1 @@
+/Users/azalhu/dev/rust/write-powerful-rust-macros/chapter-05/composing/target/debug/composing: /Users/azalhu/dev/rust/write-powerful-rust-macros/chapter-05/composing/composing-macro/src/lib.rs /Users/azalhu/dev/rust/write-powerful-rust-macros/chapter-05/composing/src/main.rs

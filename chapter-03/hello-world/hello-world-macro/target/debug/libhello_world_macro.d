@@ -1,0 +1,1 @@
+/Users/azalhu/dev/rust/write-powerful-rust-macros/chapter-03/hello-world/hello-world-macro/target/debug/libhello_world_macro.dylib: /Users/azalhu/dev/rust/write-powerful-rust-macros/chapter-03/hello-world/hello-world-macro/src/lib.rs

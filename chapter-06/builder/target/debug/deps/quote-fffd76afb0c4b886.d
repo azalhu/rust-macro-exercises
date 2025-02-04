@@ -1,0 +1,11 @@
+/Users/azalhu/dev/rust/write-powerful-rust-macros/chapter-06/builder/target/debug/deps/libquote-fffd76afb0c4b886.rmeta: /Users/azalhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/lib.rs /Users/azalhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/ext.rs /Users/azalhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/format.rs /Users/azalhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/ident_fragment.rs /Users/azalhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/to_tokens.rs /Users/azalhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/runtime.rs /Users/azalhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/spanned.rs
+
+/Users/azalhu/dev/rust/write-powerful-rust-macros/chapter-06/builder/target/debug/deps/quote-fffd76afb0c4b886.d: /Users/azalhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/lib.rs /Users/azalhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/ext.rs /Users/azalhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/format.rs /Users/azalhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/ident_fragment.rs /Users/azalhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/to_tokens.rs /Users/azalhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/runtime.rs /Users/azalhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/spanned.rs
+
+/Users/azalhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/lib.rs:
+/Users/azalhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/ext.rs:
+/Users/azalhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/format.rs:
+/Users/azalhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/ident_fragment.rs:
+/Users/azalhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/to_tokens.rs:
+/Users/azalhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/runtime.rs:
+/Users/azalhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/spanned.rs:
