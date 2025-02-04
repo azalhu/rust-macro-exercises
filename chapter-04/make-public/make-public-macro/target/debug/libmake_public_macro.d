@@ -1,1 +1,0 @@
-/Users/azalhu/dev/rust/write-powerful-rust-macros/chapter-04/make-public/make-public-macro/target/debug/libmake_public_macro.dylib: /Users/azalhu/dev/rust/write-powerful-rust-macros/chapter-04/make-public/make-public-macro/src/lib.rs
