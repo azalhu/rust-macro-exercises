@@ -9,23 +9,32 @@ enum Expr<'a> {
     Div(&'a Expr<'a>, &'a Expr<'a>),
 }
 
+macro_rules! expr {
+    ($i:literal) => {
+        Expr::Val($i)
+    };
+    ($n:literal / $d:literal) => {
+        Expr::Div(&expr!($n), &expr!($d))
+    };
+}
+
 impl Expr<'_> {
     fn eval(&self) -> Result<f64, i32> {
         match self {
             Self::Val(i) => Ok(*i as f64),
-            Self::Div(_, Self::Val(d)) if *d == 0 => Err(-1),
+            Self::Div(_, Self::Val(0)) => Err(-1),
             Self::Div(n, d) => Ok(n.eval()? / d.eval()?),
         }
     }
 }
 
 fn main() {
-    let expr = Expr::Div(&Expr::Val(1), &Expr::Val(3));
+    let expr = expr!(1 / 3);
     println!("{:?}", expr.eval());
     println!("Hello, world!");
-    let e1: Expr<'_> = Expr::Val(1);
+    let e1: Expr<'_> = expr!(1);
     let e2: Expr<'_> = e1.into();
-    println!("{:?}", e2);
+    println!("{:?}", e2.eval());
 }
 
 #[cfg(test)]

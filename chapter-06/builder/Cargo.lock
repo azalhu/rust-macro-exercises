@@ -16,13 +16,6 @@ name = "builder-macro"
 version = "0.1.0"
 dependencies = [
  "builder-code",
-]
-
-[[package]]
-name = "builder-usage"
-version = "0.1.0"
-dependencies = [
- "builder-macro",
  "trybuild",
 ]
 

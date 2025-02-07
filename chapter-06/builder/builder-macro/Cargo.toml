@@ -6,5 +6,8 @@ edition = "2021"
 [dependencies]
 builder-code = { version = "0.1.0", path = "../builder-code" }
 
+[dev-dependencies]
+trybuild = "1.0.103"
+
 [lib]
 proc-macro = true
